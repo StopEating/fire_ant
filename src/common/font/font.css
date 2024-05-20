@@ -1,0 +1,29 @@
+@font-face {  
+    font-family: "cutefontstyle"; 
+    src: url('./cutefontstyle.ttf'); 
+    font-weight: normal;  
+    font-style: normal;  
+  }
+  @font-face {  
+    font-family: "miniliti"; 
+    src: url('./miniliti.ttf'); 
+    font-weight: normal;  
+    font-style: normal;  
+  }
+  @font-face {  
+    font-family: "baibianmading"; 
+    src: url('./baibianmading.ttf'); 
+    font-weight: normal;  
+    font-style: normal;  
+  }
+  @font-face {  
+    font-family: "qingkaiti"; 
+    src: url('./qingkaiti.ttf'); 
+    font-weight: normal;  
+    font-style: normal;  
+  } @font-face {  
+    font-family: "pingyin"; 
+    src: url('./pingyin.ttf'); 
+    font-weight: normal;  
+    font-style: normal;  
+  }
